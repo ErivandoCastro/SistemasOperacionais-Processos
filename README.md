@@ -1,2 +1,2 @@
 # SistemasOperacionais-Processos
-Trabalho referente à disciplina de Sistemas Operacionais (2025.2).
+Trabalho referente à disciplina de Sistemas Operacionais (2025.2)
